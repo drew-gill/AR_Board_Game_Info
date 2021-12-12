@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MarkerLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5650280625309747651
+  m_GuidHigh: 3673492567572489899
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5712737523119118383
+      m_GuidHigh: 12965353273292013992
+    m_SerializedTextureGuid:
+      m_GuidLow: 12696993719158840989
+      m_GuidHigh: 17199303772094008346
+    m_Size: {x: 0.297, y: 0.30096}
+    m_SpecifySize: 1
+    m_Name: tfmBoard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4649852503854361632
+      m_GuidHigh: 10444998593835776186
+    m_SerializedTextureGuid:
+      m_GuidLow: 18303918762496559281
+      m_GuidHigh: 2253801186520178281
+    m_Size: {x: 0.411, y: 0.29357144}
+    m_SpecifySize: 1
+    m_Name: gloomhavenBoard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5281876699703471013
+      m_GuidHigh: 5705876609416154028
+    m_SerializedTextureGuid:
+      m_GuidLow: 5355959714492868357
+      m_GuidHigh: 2855044504602728027
+    m_Size: {x: 0.29, y: 0.19703628}
+    m_SpecifySize: 1
+    m_Name: rootBoard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4984850365539161454
+      m_GuidHigh: 13144266699548192388
+    m_SerializedTextureGuid:
+      m_GuidLow: 11683529545016302477
+      m_GuidHigh: 12429655671071228504
+    m_Size: {x: 0.223, y: 0.29499453}
+    m_SpecifySize: 1
+    m_Name: sagradaBoard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4995328638942670803
+      m_GuidHigh: 6537525211197851559
+    m_SerializedTextureGuid:
+      m_GuidLow: 14385701161179162435
+      m_GuidHigh: 10444514125731654520
+    m_Size: {x: 0.185, y: 0.23545454}
+    m_SpecifySize: 1
+    m_Name: tfmColoniesBoard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5138025324550457776
+      m_GuidHigh: 17414030173404937864
+    m_SerializedTextureGuid:
+      m_GuidLow: 11638510218384475459
+      m_GuidHigh: 10219736510183883946
+    m_Size: {x: 0.115, y: 0.15966302}
+    m_SpecifySize: 1
+    m_Name: tfmPreludeBoard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5708516356315893080
+      m_GuidHigh: 17736511158127236484
+    m_SerializedTextureGuid:
+      m_GuidLow: 5563077730848625530
+      m_GuidHigh: 18149927451086249704
+    m_Size: {x: 0.185, y: 0.26605946}
+    m_SpecifySize: 1
+    m_Name: tfmTurmoilBoard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5467060080137253697
+      m_GuidHigh: 12640064995561848995
+    m_SerializedTextureGuid:
+      m_GuidLow: 6761303624258488279
+      m_GuidHigh: 18012334624883439496
+    m_Size: {x: 0.185, y: 0.23459163}
+    m_SpecifySize: 1
+    m_Name: tfmVenusBoard
+    m_Texture: {fileID: 0}
